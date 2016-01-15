@@ -1,0 +1,22 @@
+{
+  "name": "CreateJS-W2016-vscode",
+  "homepage": "https://github.com/alexandresw/COMP397-CreateJSBoilerplate-W2016-vscode",
+  "authors": [
+    "Alexandre Watanabe <alexandresw@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
